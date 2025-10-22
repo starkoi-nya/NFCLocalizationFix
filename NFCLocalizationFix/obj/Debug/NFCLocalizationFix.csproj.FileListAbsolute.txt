@@ -1,6 +1,0 @@
-S:\Games\steam\steamapps\common\Nebulous\BepInEx\patchers\NFCLocalizationFix.dll
-S:\Games\steam\steamapps\common\Nebulous\BepInEx\patchers\NFCLocalizationFix.pdb
-S:\VisualStudio\VSProject\NFCLocalizationFix\obj\Debug\NFCLocalizationFix.csproj.AssemblyReference.cache
-S:\VisualStudio\VSProject\NFCLocalizationFix\obj\Debug\NFCLocalizationFix.csproj.CoreCompileInputs.cache
-S:\VisualStudio\VSProject\NFCLocalizationFix\obj\Debug\NFCLocalizationFix.dll
-S:\VisualStudio\VSProject\NFCLocalizationFix\obj\Debug\NFCLocalizationFix.pdb
